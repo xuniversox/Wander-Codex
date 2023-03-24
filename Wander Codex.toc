@@ -1,0 +1,8 @@
+## Interface: 90207
+## Version: 1.0.0
+## Title: Wander Codex
+## Notes: I like big butts and I can not lie!
+## Author: Universa / Dominic Dale Hughes 
+
+Library\LibDBIcon-1.0\embeds.xml
+Wander Codex.lua
