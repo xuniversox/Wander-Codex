@@ -1,3 +1,3 @@
 # Wander-Codex
 
-#### addon in the form of a codex for the player confused throughout World of Warcraft experiences.
+#### a codex addon for the player confused throughout World of Warcraft experiences.
