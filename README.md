@@ -1,3 +1,3 @@
 # Wander-Codex
 
-#### informative codex for the wander confused through World of Warcraft
+#### informative codex for the player confused throughout World of Warcraft experiences.
