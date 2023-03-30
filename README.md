@@ -1,3 +1,3 @@
 # Wander-Codex
 
-#### a encyclopedia addon for the player confused throughout World of Warcraft experiences.
+#### a informative addon for the player confused throughout World of Warcraft experiences.
